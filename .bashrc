@@ -9,6 +9,6 @@ export PS1='C:`winls`> '
 
 echo 
 echo
-echo "Winnux customWinPromptify"
-echo "   techguy16 2021-2023."
+echo "Winnux pre-1.3.0"
+echo "   techguy16 2021-2022."
 echo
